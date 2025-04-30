@@ -12,7 +12,7 @@
 
 ## 🛠️ Installation
 1. Place the `lotus-package-system` folder in your `resources` directory
-2. Add `ensure lotus-package-system to your `server.cfg` file
+2. Add `ensure lotus-package-system `to your server.cfg` file
 3. Configure the `config.lua` file according to your needs
 4. Restart the server
 
