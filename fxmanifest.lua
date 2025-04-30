@@ -9,6 +9,6 @@ shared_script 'config.lua'
 server_script 'server/main.lua'
 
 dependencies {
-    'qb-core', -- QBCore bağımlılığı
-    'ox_inventory' -- OX Inventory bağımlılığı
+    'qb-core',
+    'ox_inventory' 
 }
